@@ -47,13 +47,22 @@ Chinook-SQL-Analysis/
 
 ---
 
-## 📊 Sample Visuals  
+## 📊 Visuals  
 
-**Top Customers by Spend**  
-![Top Customers](image/top_customers.png)  
+### Monthly Revenue Trend
+![Monthly Revenue](image/Monthly%20Revenue%20Trend.png)
 
-**Revenue by Country**  
-![Revenue by Country](image/revenue_by_country.png)  
+### Most Popular Genre
+![Most Popular Genre](image/Most%20popular%20genre.png)
+
+### Revenue by Country
+![Revenue by Country](image/Revenue%20by%20Country.png)
+
+### Top 10 Bestselling Artists
+![Top Artists](image/Top%20ten%20bestselling%20artist.png)
+
+### Top 10 Customers by Total Spend
+![Top Customers](image/top%20ten%20customers%20by%20total%20spent.png)
 
 ---
 
