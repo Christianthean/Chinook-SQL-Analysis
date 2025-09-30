@@ -87,10 +87,10 @@ Chinook-SQL-Analysis/
 
 ## ⚙️ How to Reproduce  
 
-1. Download and install a SQL database (MySQL, PostgreSQL, or SQLite).  
+1. Download and install a SQL database (MySQL).  
 2. Import the `Chinook_MySql.sql` script into your database.  
 3. Run the queries provided in the `queries/` folder.  
-4. Explore the generated visualizations inside the `screenshots/` folder.  
+4. Explore the generated visualizations inside the `imgage/` folder.  
 
 ---
 
